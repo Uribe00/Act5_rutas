@@ -1,15 +1,42 @@
 # Act5_Rutass
 pantalla 1
 
-![image](https://github.com/user-attachments/assets/5115cdfd-ad9c-4ccc-98c1-da4e5c34553d)
+![image](https://github.com/user-attachments/assets/d7ed9d3c-b9c6-464e-a71a-e1f18c131056)
+
 
 pantalla 2
 
-![image](https://github.com/user-attachments/assets/167f2a05-dd34-4f76-99e2-bea99e09c20f)
+![image](https://github.com/user-attachments/assets/9c002680-0edc-4d4a-88ee-81cfb79410e4)
+
 
 pantalla 3
 
-![image](https://github.com/user-attachments/assets/2eefab97-0bd6-45b8-a131-8e4fc3c1113d)
+![image](https://github.com/user-attachments/assets/94f79fe3-53f2-4038-a762-8471be577232)
+
+
+pantalla 4
+
+![image](https://github.com/user-attachments/assets/486293b7-4426-4a27-921e-becdf4a80dec)
+
+
+pantalla 5
+
+![image](https://github.com/user-attachments/assets/ce612750-8042-43e4-b491-dc1a0b3c62c7)
+
+
+pantalla 6
+
+![image](https://github.com/user-attachments/assets/e5e6b189-3f3a-4517-bb8b-307383eefda7)
+
+
+pantalla 7
+
+![image](https://github.com/user-attachments/assets/48c5424c-a7ca-4c40-b480-1d46b4c04c21)
+
+
+
+
+
 
 
 
