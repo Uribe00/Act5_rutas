@@ -1,7 +1,7 @@
 # Act5_Rutass
 pantalla 1
 
-![image](https://github.com/user-attachments/assets/d7ed9d3c-b9c6-464e-a71a-e1f18c131056)
+![image](https://github.com/user-attachments/assets/259923f8-a437-454e-a61e-726269f49dd0)
 
 
 pantalla 2
