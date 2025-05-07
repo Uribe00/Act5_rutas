@@ -1,69 +1,80 @@
 # Act5_Rutass
 pantalla 1
 
-![image](https://github.com/user-attachments/assets/4b25c6c4-1288-420f-a13c-69137702cdae)
+![image](https://github.com/user-attachments/assets/a341c79b-3124-461d-8a06-6f7f772abc06)
+
 
 
 pantalla 2
 
-![image](https://github.com/user-attachments/assets/82c74e10-6888-4eee-928e-27f780837f19)
+![image](https://github.com/user-attachments/assets/1242e4f7-42f2-4d20-af50-c7b94282e31f)
+
 
 
 
 pantalla 3
 
-![image](https://github.com/user-attachments/assets/552a5bc6-d133-4214-b994-97bbd5b11627)
+![image](https://github.com/user-attachments/assets/c21dce86-c9e4-48e8-9039-4b3c3c502f9a)
+
 
 
 
 pantalla 4
 
-![image](https://github.com/user-attachments/assets/646b29dd-6495-4c9d-90c7-41c248d12e88)
+![image](https://github.com/user-attachments/assets/ca404701-51a8-447c-9f8f-dbe0e3843658)
+
 
 
 
 pantalla 5
 
-![image](https://github.com/user-attachments/assets/be2be677-26cc-4205-ac71-8283fc5bf4a5)
+![image](https://github.com/user-attachments/assets/3c72d8ff-a2d2-485d-9cdb-94a9f750e50a)
+
 
 
 
 pantalla 6
 
-![image](https://github.com/user-attachments/assets/49e0cf05-a80d-45f7-a4a5-34cbd651643d)
+![image](https://github.com/user-attachments/assets/327daff3-5526-4968-8f1d-72f0267ada29)
+
 
 
 
 pantalla 7
 
-![image](https://github.com/user-attachments/assets/8e11f003-bfc0-4c9c-aff2-ee66b24860b6)
+![image](https://github.com/user-attachments/assets/00f933a9-3545-42dd-bf62-6f459ad484e3)
+
 
 
 
 pantalla 8
 
-![image](https://github.com/user-attachments/assets/52ee951b-2f32-4fef-8091-bd6478381a05)
+![image](https://github.com/user-attachments/assets/3f73ff59-9ba8-4694-ab75-bd92bea5ab48)
+
 
 
 
 
 pantalla 9
 
-![image](https://github.com/user-attachments/assets/b245a412-4e33-4c57-925f-af0626ceb75c)
+![image](https://github.com/user-attachments/assets/d3e5893c-5270-4781-b692-3fd425d47cad)
+
 
 
 
 
 pantalla 10
 
-![image](https://github.com/user-attachments/assets/bf1f0f20-3c76-4240-b45e-46e6cd961258)
+![image](https://github.com/user-attachments/assets/04211567-2f68-491d-924f-4064bbe40622)
+
 
 
 
 
 pantalla 11
 
-![image](https://github.com/user-attachments/assets/b716ac47-3de9-4555-b2b1-26ddfab352a0)
+![image](https://github.com/user-attachments/assets/73d0ac15-1079-42f7-ae65-6a689dffb2f8)
+
 
 
 
